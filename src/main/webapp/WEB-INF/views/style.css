@@ -1,0 +1,14 @@
+input {
+    height: 50px;
+    color: blue;
+}
+
+.th {
+    text-align: center;
+    background-color: blue;
+    padding: 30px;
+}
+
+table {
+    border-spacing: 20px;
+}
